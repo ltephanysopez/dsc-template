@@ -4,4 +4,4 @@ Chances are if you're viewing this, it's because I directed you here or you've b
 
 The most active tabs used are Issues and Projects- check them out to see how to use GitHub as a management tool for your student organization! 
 
-Have any questions, concerns, or complaints? Feel free to open a PR and I'll to it soon. 
+Have any questions, concerns, or complaints? Feel free to open a PR and I'll get to it soon. 
